@@ -18,6 +18,8 @@ print(tamanho)
 lista.insert(2, 21)
 print(lista)
 
+print()
 while 7 in lista:
     lista.remove(7)
-    print()
+    print(lista)
+    print("Acabou")
