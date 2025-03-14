@@ -18,7 +18,12 @@ print(valor_removido)
 print(impares)
 
 # 3. Na lista fibonacci = [8, 1, 0, 5, 13, 1, 3, 2]:
-# a) ordene a lista.
-# b) Coloque em valor reverso a lista fibonacci.]
+# a) Ordene a lista.
+# b) Coloque em valor reverso a lista fibonacci.
 
-# 4. Na lista 
+# 4. Na lista pi = [3, 1, 4, 1, 5, 9, 2, 6, 5]
+# a) Busque o elemento que esta no indice 5 da lista.
+# b) Imprima o tamanho da lista.
+# c) Imprima o tamanho maximo da lista.
+# d) Imprima o valor minimo da lista.
+# e) Imprima apenas o resultado [4, 5]
