@@ -27,6 +27,5 @@ else:
 
 print("Nome completo em letras maiusculas:", nome_completo.upper())
 
-#  g) Substitua todas as ocorrências da vogal “a” na string do nome completo pelo caractere ‘4’ e exiba o resultado
-
+#  g) Substitua todas as ocorrências da vogal “a” na string do nome completo pelo carac
 print("Nome com'a' substituido por '4':", nome_completo.replace('a','4'.replace('a','4')))
