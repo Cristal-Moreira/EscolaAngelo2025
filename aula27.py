@@ -81,3 +81,4 @@ def eh_palindromo(texto):
 
 frase = input("Digite uma palavra ou frase: ")
 print("É um palíndromo" if eh_palindromo(frase) else "Não é um palíndromo")
+

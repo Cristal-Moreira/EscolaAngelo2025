@@ -12,4 +12,5 @@ if var1 > 15:
    print("pode votar")
 else:
    print("não pode votar")
+   
   

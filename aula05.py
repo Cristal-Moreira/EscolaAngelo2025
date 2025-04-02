@@ -10,3 +10,4 @@ print(v1 == v2 or v3 ==v3)
 
 print(not v1 == v3)
 print(not v1 != v3)
+

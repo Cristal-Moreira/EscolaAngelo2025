@@ -23,3 +23,4 @@ print (f"resposta: {maior_ou_igual}")
 menor_ou_igual = var1 <= 10
 print (f"resposta: {menor_ou_igual}")
 
+

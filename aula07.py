@@ -10,3 +10,4 @@ if soma > 20:
   print("maior que 20") 
 else:
   print("menor que 20")
+  

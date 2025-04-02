@@ -61,3 +61,4 @@ elif sexo. lower == "outro":
   print("sexo outo")
 else:
   print("sexo invalido")
+  

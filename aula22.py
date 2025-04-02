@@ -94,3 +94,4 @@ while contador <= num:
     contador += 1
 
 print("O loop terminou.")
+

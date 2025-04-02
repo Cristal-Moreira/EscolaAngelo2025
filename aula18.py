@@ -24,3 +24,4 @@ while 7 in lista:
     print(lista)
     print("Acabou")
     
+    
