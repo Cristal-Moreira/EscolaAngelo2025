@@ -8,10 +8,10 @@ print("lista_vazia")
 
 tupla = ()
 print(tupla)
-tupla = lista(("Ana", "Paula", "Sophia"))
+tupla = list(("Ana", "Paula", "Sophia"))
 tupla.append("Cristal")
 tupla = tuple(tupla)
-prit(tupla)
+print(tupla)
 
 print(lista_vazia[0])
 print(tupla[3])
